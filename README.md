@@ -483,8 +483,10 @@ redistribute it (changed or not), section 4 of the licence asks you to:
 
 ## Free intro call
 
-Want help setting this up for your business? Book a free intro call via
-[KnowledgeDB.io](https://knowledgedb.io) (contact form).
+Want help setting this up for your business?
+**Book a free 30-minute intro call: https://calendar.app.google/j6XJUvbP2cdjXjAv6**
+
+More about the framework: https://knowledgedb.io/framework
 
 The call is offered by KnowledgeDB.io separately from this open-source
 project. The licence creates no obligation to provide support. The call is
